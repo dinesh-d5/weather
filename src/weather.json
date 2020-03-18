@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "temp":280.42,
+    "city":"London",
+    "country":"GB",
+    "humidity":81,
+    "description":"light intensity drizzle"
+ }
